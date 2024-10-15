@@ -1,0 +1,16 @@
+LICENCE
+MANIFEST.in
+README.md
+setup.py
+moskali/__init__.py
+moskali/constants.py
+moskali/exceptions.py
+moskali/losses.txt
+moskali/main.py
+moskali/utils.py
+moskali.egg-info/PKG-INFO
+moskali.egg-info/SOURCES.txt
+moskali.egg-info/dependency_links.txt
+moskali.egg-info/entry_points.txt
+moskali.egg-info/requires.txt
+moskali.egg-info/top_level.txt

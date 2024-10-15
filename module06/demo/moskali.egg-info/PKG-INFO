@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: moskali
+Version: 6
+Summary: Very useful code
+Home-page: http://github.com/dummy_user/useful
+Author: Oleh Andrus
+Author-email: andrus@test.gmail.com
+License: MIT
+Classifier: Programming Language :: Python :: 3
+License-File: LICENCE
+Requires-Dist: faker
+
+Console application to keep track of casualities
+
+# Moskali Package
+
+This is a simple example package. You can use [Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/) to write your content.
