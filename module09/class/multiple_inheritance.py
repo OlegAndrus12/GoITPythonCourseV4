@@ -1,10 +1,8 @@
 class Monster:
     def __init__(self, health, energy, **kwargs):
-        print(kwargs)
         self.health = health
         self.energy = energy
         # REASON !!!!
-        super().__init__(**kwargs)
 
     # methods
     def attack(self, amount):
@@ -19,7 +17,6 @@ class Monster:
 
 class Fish:
     def __init__(self, speed, has_scales, **kwargs):
-        print(kwargs)
         self.speed = speed
         self.has_scales = has_scales
         # REASON !!!!
@@ -37,9 +34,6 @@ class Shark(Monster, Fish):
         )
 
 
-# mro -> method resolution order
-# print(Shark.mro())
-
 shark = Shark(bite_strength=50, health=200, energy=55, speed=120, has_scales=False)
 
-print(shark.speed)
+print(shark.speed, shark.health)

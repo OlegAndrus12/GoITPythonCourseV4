@@ -1,1 +1,26 @@
-[{"user_id": 313, "name": "Rachel Lawrence", "last_name": "Cervantes", "email_address": "nbaxter@example.org", "phone_number": "243.681.6267", "date_joined": "03/13/2000, 12:09:07"}, {"user_id": 169, "name": "Larry Price", "last_name": "Scott", "email_address": "sharonclark@example.net", "phone_number": "522-341-5497", "date_joined": "06/12/1973, 04:15:48"}, {"user_id": 299, "name": "Lee Torres", "last_name": "James", "email_address": "todd16@example.org", "phone_number": "464-307-1048x54718", "date_joined": "07/30/2000, 10:49:13"}]
+[
+    {
+        "user_id": 313,
+        "name": "Rachel Lawrence",
+        "last_name": "Cervantes",
+        "email_address": "nbaxter@example.org",
+        "phone_number": "243.681.6267",
+        "date_joined": "03/13/2000, 12:09:07"
+    },
+    {
+        "user_id": 169,
+        "name": "Larry Price",
+        "last_name": "Scott",
+        "email_address": "sharonclark@example.net",
+        "phone_number": "522-341-5497",
+        "date_joined": "06/12/1973, 04:15:48"
+    },
+    {
+        "user_id": 299,
+        "name": "Lee Torres",
+        "last_name": "James",
+        "email_address": "todd16@example.org",
+        "phone_number": "464-307-1048x54718",
+        "date_joined": "07/30/2000, 10:49:13"
+    }
+]
